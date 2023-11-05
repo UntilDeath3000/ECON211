@@ -3,7 +3,7 @@
 ##resume: [Jiaolun Zhou_Resume.docx](https://github.com/UntilDeath3000/ECON211/files/13226255/Jiaolun.Zhou_Resume.docx)\n
 Self Introduction:\n
 My name is Jiaolun Zhou and I am studying computer science at Duke Kunshan University. I conducted research in the sensing and interaction laboratory, and had certain research on the Internet of Things and game programming (unity2D, rpgmaker). Currently, two self-developed horizontal board pixel games have been released on github.\n
-Photo:\n
+Photo:
 ![Photo](https://github.com/UntilDeath3000/ECON211/assets/149361380/d3101345-3d03-4464-b802-9ec1391d76d2)\n
 Data:\n
 These five papers primarily focus on enhancing the interpretability and transparency of machine learning models to address the challenges posed by black-box models in various domains. Caruana et al. (2015) emphasize interpretability in healthcare, highlighting the practical impact of accurate and interpretable models on patient care and outcomes. Binder et al. (2022) center on comprehensive reconstruction of language models with linguistic rules for explaining online consumer reviews. Lundberg and Lee (2017) propose a unified method for explaining machine learning model predictions, enhancing model interpretability. Chen et al. (2018) introduce the Local Interpretable Model-Agnostic Explanation (LIME) framework for explaining predictions of black-box models. Lastly, Rudin (2019) argues for the use of interpretable models in high-stakes decision-making, emphasizing the need for transparency. These studies are vital for addressing the challenges of understanding black-box models and improving model interpretability and trust in various domains.\n
